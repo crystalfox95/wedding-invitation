@@ -38,9 +38,9 @@ export const Location = () => {
             <br />
              &nbsp;452, 470, 741
             <br />
-             &nbsp;&nbsp;&nbsp;&nbsp;452, 470, 741
+             &nbsp;&nbsp;452, 470, 741
             <br />
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;452, 470, 741
+             &nbsp;&nbsp;&nbsp;452, 470, 741
             <br />
             - 광역: 9404, 9408, 9409, 9500, 9501, 9711, 9802, M4403, M4434, M4448, M4449, M5422, M5438, M5443, M6410, M6450
             <br />
