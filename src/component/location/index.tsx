@@ -78,7 +78,7 @@ export const Location = () => {
           <div className="content">
             <b>※ 서초IC에서 양재역 방면으로 나오신 후 </b>
             <br/>
-            &nbsp;&nbsp;&nbsp;&thinsp;<b>양재역 사거리에서 성남방향으로 우회전합니다. </b>
+            &nbsp;&nbsp;&nbsp;&thinsp;<b>양재역 사거리에 성남방향으로 우회전합니다. </b>
             <br />
             &nbsp;&nbsp;&nbsp;&thinsp;<b>이후, 100m 직진하시면 엘타워가 있습니다. </b>
           </div>
