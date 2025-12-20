@@ -76,11 +76,11 @@ export const Location = () => {
           </div>
           <div />
           <div className="content">
-            <b>※ 서초IC에서 양재역 방면으로 나오신 후 양재역</b>
+            <b>※ 서초IC에서 양재역 방면으로 나오신 후 </b>
+            <br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;<b>양재역 사거리에서 성남방향으로 우회전합니다.  </b>
             <br />
-            &nbsp;&nbsp;&nbsp;<b>사거리에서 성남방향으로 우회전합니다. 우회전 </b>
-            <br />
-            &nbsp;&nbsp;&nbsp;<b>후 100m 직진하시면 우측에 엘타워가 있습니다. </b>
+            &nbsp;&nbsp;&nbsp;&nbsp;<b>우회전 후 100m 직진하시면 엘타워가 있습니다. </b>
           </div>
         </div>
       </LazyDiv>
