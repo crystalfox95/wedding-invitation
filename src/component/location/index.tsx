@@ -37,13 +37,13 @@ export const Location = () => {
             <br />
             - 간선(파랑): 140, 341, 400, 405, 421, 440, 441,
             <br />
-            &nbsp;&nbsp;&nbsp;452, 470, 741
+            &nbsp;&nbsp;&thinsp;452, 470, 741
             <br />
             - 광역: 9404, 9408, 9409, 9500, 9501, 9711, 
             <br />
-            &nbsp;&nbsp;&nbsp;9802, M4403, M4434, M4448, M4449, 
+            &nbsp;&nbsp;&thinsp;9802, M4403, M4434, M4448, M4449, 
             <br />
-            &nbsp;&nbsp;&nbsp;M5422, M5438, M5443, M6410, M6450
+            &nbsp;&nbsp;&thinsp;M5422, M5438, M5443, M6410, M6450
             <br />
             - 마을: 6, 11-3, 917
             <br />
@@ -51,11 +51,11 @@ export const Location = () => {
             <br />
             - 일반: 1006, 1311, 3000, 3002, 3003, 3007, 
             <br />
-            &nbsp;&nbsp;&nbsp;3008, 3030, 3100, 3101, 3102, 3201, 3800, 
+            &nbsp;&nbsp;&thinsp;3008, 3030, 3100, 3101, 3102, 3201, 3800, 
             <br />
-            &nbsp;&nbsp;&nbsp;5200, 5300, 9202, 9400, 9700, G1003, 
+            &nbsp;&nbsp;&thinsp;5200, 5300, 9202, 9400, 9700, G1003, 
             <br />
-            &nbsp;&nbsp;&nbsp;G3900, G8157, G9633
+            &nbsp;&nbsp;&thinsp;G3900, G8157, G9633
             <br />
           </div>
         </div>
@@ -78,9 +78,9 @@ export const Location = () => {
           <div className="content">
             <b>※ 서초IC에서 양재역 방면으로 나오신 후 </b>
             <br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;<b>양재역 사거리에서 성남방향으로 우회전합니다.  </b>
+            &nbsp;&nbsp;&nbsp;&thinsp;<b>양재역 사거리에서 성남방향으로 우회전합니다. </b>
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;<b>우회전 후 100m 직진하시면 엘타워가 있습니다. </b>
+            &nbsp;&nbsp;&nbsp;&thinsp;<b>이후, 100m 직진하시면 엘타워가 있습니다. </b>
           </div>
         </div>
       </LazyDiv>
