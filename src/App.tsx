@@ -34,12 +34,12 @@ function App() {
 
         <LazyDiv className="card-group">
           {/* 오시는길 */}
-          <Location />
+          <Information />
         </LazyDiv>
 
         <LazyDiv className="card-group">
           {/* 마음 전하기 */}
-          <Information />
+          <Location />
           {/* 방명록 */}
           {!STATIC_ONLY && <GuestBook />}
         </LazyDiv>
