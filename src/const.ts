@@ -66,7 +66,7 @@ export const BRIDE_INFO = [
 
 export const GROOM_FULLNAME = "공영재"
 export const GROOM_FIRSTNAME = "영재"
-export const GROOM_TITLE = "막내"
+export const GROOM_TITLE = "자"
 export const GROOM_FATHER = "공순기"
 export const GROOM_MOTHER = "임도선"
 export const GROOM_INFO = [
