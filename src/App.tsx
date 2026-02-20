@@ -40,8 +40,7 @@ function App() {
         <LazyDiv className="card-group">
           {/* 마음 전하기 */}
           <Information />
-          {/* 방명록 */}
-          {!STATIC_ONLY && <GuestBook />}
+          <Information />
         </LazyDiv>
 
         <ShareButton />
