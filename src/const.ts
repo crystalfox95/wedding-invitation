@@ -17,7 +17,7 @@ export const WEDDING_DATE_FORMAT = `YYYY년 MMMM D일 dddd A h시${WEDDING_DATE.
 export const HOLIDAYS = [9]
 
 export const LOCATION = "양재 엘타워 그레이스 홀"
-export const LOCATION_ADDRESS = "서울 서초구 강남대로 213 엘타워 7층 "
+export const LOCATION_ADDRESS = "서울 서초구 강남대로 213 엘타워 6층 "
 
 // 카카오톡 공유 시 위치 정보로 사용할 주소.
 // LOCATION 과 동일하게 설정해도 무방하나, 필요에 따라 좀 더 상세히 작성 가능.
@@ -73,7 +73,7 @@ export const GROOM_INFO = [
   {
     relation: "신랑",
     name: GROOM_FULLNAME,
-    phone: "010-0000-0000",
+    phone: "010-3846-7970",
     account: "국민은행 120502-04-189711",
   },
   {
