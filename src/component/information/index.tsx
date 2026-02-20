@@ -14,7 +14,7 @@ export const Information1 = () => {
         <div className="content">
           식사시간: 15시 00분 ~ 17시 00분
           <br />
-          장소: 엘타워 7층 그레이스홀
+          장소: 엘타워 6층 그레이스홀
         </div>
       </div>
     </>
